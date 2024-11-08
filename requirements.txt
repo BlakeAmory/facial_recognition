@@ -1,0 +1,9 @@
+opencv-python
+face_recognition
+streamlit
+numpy
+pillow
+cmake
+dlib==19.24.4
+
+
